@@ -14,6 +14,7 @@ Alternates: ~42.24%
 Onehands: ~1.85%
 Redirects: ~2.82%
 Finger Speed (weighted): [1.86 1.60 1.01 1.54 1.13 2.03 1.22 0.59]
+Finger Speed (unweighted): [2.79 5.74 4.87 8.48 6.20 9.73 4.39 0.89]
 Index Usage: 12.5% 11.6%
 SFBs: 0.854%
 DSFBs: 6.460%
