@@ -1,9 +1,9 @@
 # APTx
 
 ```txt
-j c d b x  k p o u ; 
+j c d w x  k p o u ; 
 r s t n v  y h a i e 
-l g m w q  z f . , ' 
+l g m b q  z f . , ' 
 Rolls (l): 20.13%
         Inward: ~7.23%
         Outward: ~12.90%
